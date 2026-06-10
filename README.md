@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinay Rajput,PhD!  
+# 👋 Hi, I'm Vinay Rajput, PhD!  
 **Learning from the data | Innovating with bioinformatics**
 
 👨‍🔬 Bioinformatics Scientist 
